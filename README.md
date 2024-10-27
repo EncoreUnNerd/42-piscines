@@ -1,10 +1,10 @@
-# 42 Piscines 🏊‍♂️
+# 42 Piscine 🏊‍♂️
 
-Welcome to my "42 Piscines" repository! This project showcases my coding journey during the piscine at École 42 🎓. Please note that not everything is complete or fully functional.
+Welcome to my "42 Piscine" repository! This project showcases my coding journey during the piscine at École 42 🎓. Please note that not everything is complete or fully functional.
 
 ## About the Project
 
-The "42 Piscines" repository contains the code I developed during the intensive coding bootcamp known as the piscine. It was a challenging experience that pushed me to learn and grow as a programmer. 🌱
+The "42 Piscine" repository contains the code I developed during the intensive coding bootcamp known as the piscine. It was a challenging experience that pushed me to learn and grow as a programmer. 🌱
 
 ### Features
 
