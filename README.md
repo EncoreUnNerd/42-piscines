@@ -39,6 +39,6 @@ To explore the code:
 ## Contact
 
 If you have any questions or want to discuss ideas, don't hesitate to reach out 📩🤝.  
-[mathys.henin@protonmail.com] ✉️
+[mail me](mathys.henin@protonmail.com) ✉️
 
 - 🤓
