@@ -4,41 +4,8 @@ Welcome to my "42 Piscine" repository! This project showcases my coding journey 
 
 ## About the Project
 
-The "42 Piscine" repository contains the code I developed during the intensive coding bootcamp known as the piscine. It was a challenging experience that pushed me to learn and grow as a programmer. 🌱
+This repo contains all the “C ”s in my 42 piscine. The 42 piscine is the school's entrance exam. 1 month of “C” exercises. Just so you know, not all the codes are “perfect”, especially those towards the end that aren't specially put through the mill. I'd already coded before 42, but not in “C”, so this repo is a testament to my beginnings.
 
-### Features
-
-- Various coding exercises and projects completed during the piscine.
-- Some functionalities may not work as intended or are juste not functional ⚠️.
-- A great opportunity to review my learning process and coding style 📖.
-
-## Technologies Used
-
-- **Programming Languages:**
-  - C 💚
-  - Bash 🐚
-
-- **Development Tools:**
-  - Vim 🖥️
-  - Terminal 🖥️
-
-## Getting Started
-
-To explore the code:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/EncoreUnNerd/42-piscine.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd 42-piscine
-   ```
-3. Compile and run the code as needed.
-
-## Contact
-
-If you have any questions or want to discuss ideas, don't hesitate to reach out 📩🤝.  
-[mail me](mailto:mathys.henin@protonmail.com) ✉️
+I VERY VERY strongly recommend that you don't look at what I've done until you've tried to do it yourself. And if you do, take WELL enough time to read and understand the written code sonon it won't be of any use to you.
 
 - 🤓
